@@ -26,12 +26,12 @@
 |-------------|---------------|
 |<h1 /h1> | Título da página|
 |<h2 /h2> | Título de seção|
-|<h3 h3> |Título de artigo|
+|<h3 /h3> |Título de artigo|
 |<p /p> | Conteúdo do artigo|
-|<a href = "LINK"> nome da página</a> | link da pagina e nome|
-|<a target = "_blank"> LINK </a>| Abrir link em nova aba|
-|<img src= "img/avatar.jpg"> | Caminho da imagem (obrigatório)|
-|<img alt= "Foto de Thais Ferreira Passos">| Descrição da foto| 
+|<a href = "LINK" nome da página /a> | link da pagina e nome|
+|<a target = "_blank" LINK /a>| Abrir link em nova aba|
+|<img src= "img/avatar.jpg" | Caminho da imagem (obrigatório)|
+|<img alt= "Foto de Thais Ferreira Passos"| Descrição da foto| 
 
 ## Listas
 
