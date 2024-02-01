@@ -37,6 +37,6 @@
 
 | Sintaxe | Descrição |
 |---------|-----------|
-| <ul> | Ordem dos itens não é importante|
-| <ol> | Ordem dos itens é importante, ordenado por uma letra, número ou algoritmos romanos|
-| <li>| Item da lista|
+| <ul /ul>| Ordem dos itens não é importante|
+| <ol /ol>| Ordem dos itens é importante, ordenado por uma letra, número ou algoritmos romanos|
+| <li /li>| Item da lista|
